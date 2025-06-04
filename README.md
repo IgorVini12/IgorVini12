@@ -14,7 +14,7 @@
 
 ---
 
-- 🌱 Atualmente estudando: **JavaScript, Python, Node.js, React e Machine Learning**
+- 🌱 Atualmente estudando: **JavaScript, Python
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/igor-vinicius-5390662ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Instagram](https://www.instagram.com/iigorvini122?igsh=a3VkOHR0c3hydDRl)
 
 ---
