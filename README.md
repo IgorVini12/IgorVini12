@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá, eu sou o Igor 👋</h1>
+<h1 align="center">Olá👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IgorVini12&style=flat-square" alt="Profile Views" />
