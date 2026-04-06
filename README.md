@@ -17,7 +17,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorVini12/IgorVini12/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IgorVini12/IgorVini12/output/pacman-contribution-graph.svg">
 </picture>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IgorVini12&show_icons=true&hide_title=true&theme=radical" />
-</p>
