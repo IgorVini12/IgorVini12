@@ -5,11 +5,6 @@
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python" />  
 </p>
-
-<p align="center">
-  Estundante de Analise e Desenvolvimento de Dados 
-</p>
-
 ---
 
 - 🌱 Atualmente estudando:Na Cruzeiro do Sul em São Miguel 
