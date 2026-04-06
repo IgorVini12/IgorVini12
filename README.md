@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Estundate de Analise e Desenvolvimento de Dados 
+  Estundante de Analise e Desenvolvimento de Dados 
 </p>
 
 ---
