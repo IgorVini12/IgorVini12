@@ -5,6 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=IgorVini12&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python" />
+  <img width="512" height="56" alt="image" src="https://github.com/user-attachments/assets/f96c6e00-5b41-485c-b883-13340b3f1bec" />
+
   
 </p>
 
