@@ -5,11 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=IgorVini12&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python" />
+  
 </p>
 
 <p align="center">
-  Desenvolvedor apaixonado por tecnologia e inovação.<br>
-  Sempre aprendendo e compartilhando conhecimento!
+  Estundade de Analise e Desenvovimento de Dados 
 </p>
 
 ---
