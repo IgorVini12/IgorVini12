@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de Desenvolvimento na Cruzeiro do Sul, explorador de tecnologia e programação. Atualmente focado em **JavaScript** e **Python**, criando soluções criativas e aprendendo cada vez mais.
+Sou estudante de Desenvolvimento na Cruzeiro do Sul, explorador de tecnologia e programação. Atualmente focado em **JavaScript** e **Python**, criando soluções criativas e aprendendo cada vez [...]
 
 ---
 
@@ -48,3 +48,7 @@ JavaScript   •   Python   •   HTML5   •   CSS3   •   Git   •   SQL Ser
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorVini12&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+
+---
+
+<img src='https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=footer' width='100%'/>
