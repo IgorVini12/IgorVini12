@@ -2,9 +2,6 @@
 
 ![Apresentação](https://readme-typing-svg.demolab.com/?lines=Hello!+My+name+is+Igor.;&center=true&vCenter=true&size=45&width=1000&color=6366f1&font='Poppins')
 
-
-<h1 align="center">👨‍💻 Igor Vinícius</h1>
-
 <p align="center">
 Sou estudante de Desenvolvimento na Cruzeiro do Sul, apaixonado por tecnologia e programação.  
 Atualmente explorando JavaScript e Python para criar soluções criativas e aprender cada vez mais.  
