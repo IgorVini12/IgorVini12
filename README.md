@@ -1,3 +1,8 @@
+<img src='https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header' width='100%'/>
+
+![Apresentação](https://readme-typing-svg.demolab.com/?lines=Hello!+My+name+is+Igor.;&center=true&vCenter=true&size=45&width=1000&color=6366f1&font='Poppins')
+
+
 <h1 align="center">👨‍💻 Igor Vinícius</h1>
 
 <p align="center">
