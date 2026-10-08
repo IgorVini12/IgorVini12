@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de Desenvolvimento na Cruzeiro do Sul, explorador de tecnologia e programação. Atualmente focado em **JavaScript** e **Python**, criando soluções criativas e aprendendo cada vez [...]
+Sou estudante de Desenvolvimento na Cruzeiro do Sul, explorador de tecnologia e programação. Atualmente focado em **Java** *, criando soluções criativas e aprendendo cada vez [...]
 
 ---
 
